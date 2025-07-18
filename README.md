@@ -70,4 +70,4 @@ A colorful 3D cube made of small parts transitioning smoothly through all RGB co
 ---
 
 # Who wrote the documentation except this part?
-- ChatGPT
+| ChatGPT
