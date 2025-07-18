@@ -68,3 +68,6 @@ This Roblox Lua script creates a 3D cube made of smaller colored parts, where ea
 A colorful 3D cube made of small parts transitioning smoothly through all RGB color combinations, floating above the origin at position `(0, 10, 0)` by default.
 
 ---
+
+# Who wrote the documentation except this part?
+- ChatGPT
